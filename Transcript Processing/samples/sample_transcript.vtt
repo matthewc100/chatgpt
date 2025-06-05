@@ -1,0 +1,2206 @@
+WEBVTT
+
+1
+00:01:26.360 --> 00:01:27.080
+Evan Bristow: Hmm!
+
+2
+00:01:28.320 --> 00:01:29.259
+Evan Bristow: Oh my!
+
+3
+00:01:31.565 --> 00:01:32.590
+Evan Bristow: Tired!
+
+4
+00:07:09.300 --> 00:07:10.130
+Evan Woollacott: Oh, heaven!
+
+5
+00:07:12.440 --> 00:07:13.220
+Evan Bristow: Hello, Evan!
+
+6
+00:07:14.030 --> 00:07:16.159
+Evan Woollacott: Long time. No talk how you been.
+
+7
+00:07:17.000 --> 00:07:18.519
+Evan Bristow: I'm okay. How about yourself?
+
+8
+00:07:19.566 --> 00:07:20.859
+Evan Woollacott: Also alright.
+
+9
+00:07:24.520 --> 00:07:25.520
+Evan Bristow: Good, good.
+
+10
+00:07:44.770 --> 00:07:48.340
+Evan Woollacott: Just get a moment for Matt to join. He should be here to the meeting.
+
+11
+00:08:05.910 --> 00:08:07.400
+Matt Coblentz: Sorry I'm late, gents.
+
+12
+00:08:08.630 --> 00:08:09.659
+Evan Bristow: No worries.
+
+13
+00:08:10.640 --> 00:08:15.690
+Matt Coblentz: I hope everything is going well for you out there in Indianapolis.
+
+14
+00:08:15.900 --> 00:08:17.580
+Evan Bristow: Indianapolis, I mean.
+
+15
+00:08:18.180 --> 00:08:23.670
+Evan Bristow: It's it is what it is, and it's not what it's not so.
+
+16
+00:08:23.670 --> 00:08:25.290
+Matt Coblentz: It's not what it's not.
+
+17
+00:08:27.080 --> 00:08:30.209
+Matt Coblentz: How are the kids? How the family? Let's check in real quick.
+
+18
+00:08:30.210 --> 00:08:34.340
+Evan Bristow: Kids are good. Family's fine going on vacation next week.
+
+19
+00:08:35.210 --> 00:08:35.990
+Evan Bristow: It goes.
+
+20
+00:08:36.390 --> 00:08:37.350
+Matt Coblentz: Where are you going.
+
+21
+00:08:37.559 --> 00:08:39.539
+Evan Bristow: Arizona onto my
+
+22
+00:08:40.259 --> 00:08:44.859
+Evan Bristow: place where my wife went to grad school, go visit there for like a day, and then
+
+23
+00:08:45.249 --> 00:08:48.749
+Evan Bristow: part around sea desert stuff, I guess.
+
+24
+00:08:48.750 --> 00:08:55.619
+Matt Coblentz: All good, clean, excellent stuff. So if you're in Phoenix
+
+25
+00:08:56.780 --> 00:09:08.690
+Matt Coblentz: or Scottsdale, then I will recommend you. Drive about 45 min north to Cave Creek, rent one of those Atv rentals and go drive around in the National Park for a half a day. It's dusty fun.
+
+26
+00:09:09.210 --> 00:09:10.010
+Evan Bristow: Interesting.
+
+27
+00:09:10.210 --> 00:09:19.159
+Matt Coblentz: Yeah, you get to drive around old Dry Creek beds and stuff like this and make your way around. And it's 1 of those you strap the kids in the back.
+
+28
+00:09:19.430 --> 00:09:21.870
+Matt Coblentz: put yourself and Mom in the front seat and just
+
+29
+00:09:22.160 --> 00:09:26.549
+Matt Coblentz: have at it. There's no windshield, so be prepared for bugs and dust in your grill.
+
+30
+00:09:26.550 --> 00:09:27.970
+Evan Bristow: Interesting. All right. Well.
+
+31
+00:09:27.970 --> 00:09:31.310
+Matt Coblentz: I'm gonna recommend that and if you're really curious, I will send you the link.
+
+32
+00:09:34.750 --> 00:09:37.509
+Evan Bristow: I don't know that my wife is that adventurous.
+
+33
+00:09:38.650 --> 00:09:42.579
+Matt Coblentz: Hard drive, but you never know. There you have it.
+
+34
+00:09:44.200 --> 00:09:54.039
+Matt Coblentz: okay. So the reason I called this meeting to order was because Evan and I continually are digging into
+
+35
+00:09:54.480 --> 00:10:07.810
+Matt Coblentz: the tableau, dashboard, and stuff like this, looking at win loss. And, by the way, we love the dashboard. But every time they ask for something that dashboard doesn't exactly fulfill. We're like struggling to figure out how exactly we we pull that out. So.
+
+36
+00:10:07.810 --> 00:10:10.880
+Evan Bristow: Just ask me. I do more than dashboards, you know.
+
+37
+00:10:10.880 --> 00:10:13.959
+Matt Coblentz: I know right. But the other thing is, I was wondering.
+
+38
+00:10:14.580 --> 00:10:23.339
+Matt Coblentz: is everything we need in the sales pipeline. 3 data set. Or should I understand that there's extra qualifications that you guys
+
+39
+00:10:23.580 --> 00:10:27.760
+Matt Coblentz: do to make the dashboard run with some sort of excel spreadsheet. So we were wondering
+
+40
+00:10:27.900 --> 00:10:31.249
+Matt Coblentz: if we could. If that's the case, then can you just
+
+41
+00:10:31.640 --> 00:10:36.540
+Matt Coblentz: publish us a data set that we could always fish in when we can't get what we need.
+
+42
+00:10:38.420 --> 00:10:39.450
+Matt Coblentz: Did that make sense.
+
+43
+00:10:39.770 --> 00:10:40.860
+Evan Bristow: Sort of
+
+44
+00:10:44.670 --> 00:10:46.090
+Evan Bristow: Excuse me.
+
+45
+00:10:46.450 --> 00:10:46.790
+Matt Coblentz: Sunthide.
+
+46
+00:10:49.320 --> 00:10:54.840
+Evan Bristow: It depends. I mean, everything that you would need in the dashboard is in our.
+
+47
+00:10:54.840 --> 00:10:55.390
+Matt Coblentz: Hold on!
+
+48
+00:10:56.610 --> 00:11:00.130
+Matt Coblentz: Pipeline, 3 pipe, either sp. 3 or one of the other views.
+
+49
+00:11:00.230 --> 00:11:10.490
+Evan Bristow: Except for the competitive deal reclassification thing. That's that's inside the tablet.
+
+50
+00:11:10.830 --> 00:11:11.540
+Evan Bristow: Yeah, that's the
+
+51
+00:11:11.540 --> 00:11:19.300
+Evan Bristow: that's in tableau itself. Again, it's just based off of rules. And so like, literally, it's it's just written in
+
+52
+00:11:20.360 --> 00:11:23.070
+Evan Bristow: What is it? Tableau's vision?
+
+53
+00:11:23.220 --> 00:11:25.400
+Evan Bristow: Biz, sequel, or whatever they call it?
+
+54
+00:11:26.045 --> 00:11:30.679
+Evan Bristow: Rather than sequel. Again, it's you could literally
+
+55
+00:11:30.950 --> 00:11:35.340
+Evan Bristow: I could. I could. I could get copy the formula and give it to you, and you could probably spend about
+
+56
+00:11:35.730 --> 00:11:38.760
+Evan Bristow: 10 min, and just convert it into sequel, and then.
+
+57
+00:11:38.760 --> 00:11:40.399
+Matt Coblentz: Well, that would work too.
+
+58
+00:11:41.520 --> 00:11:45.290
+Evan Bristow: Yeah, so if if that works cool.
+
+59
+00:11:46.400 --> 00:11:47.440
+Matt Coblentz: That could work
+
+60
+00:11:47.440 --> 00:11:53.348
+Matt Coblentz: for us, because that way, then we could say, Look, we're using the Rev. Ops data set according to the rules.
+
+61
+00:11:54.120 --> 00:11:58.440
+Matt Coblentz: But when Az comes up with some extra slice that just isn't there, we're like.
+
+62
+00:11:59.330 --> 00:12:03.899
+Evan Bristow: Yeah, now, what do we do? And the other nice thing actually is having that.
+
+63
+00:12:04.500 --> 00:12:06.740
+Matt Coblentz: In sales.
+
+64
+00:12:06.970 --> 00:12:12.740
+Matt Coblentz: Snowflake allows us then to grab Tyler or Connor's data set on partnership
+
+65
+00:12:13.610 --> 00:12:16.419
+Matt Coblentz: and do a join. That is way faster, easier. There.
+
+66
+00:12:16.930 --> 00:12:19.310
+Evan Bristow: That's that is very descriptive.
+
+67
+00:12:24.110 --> 00:12:25.840
+Matt Coblentz: They don't use the same data set for the partner.
+
+68
+00:12:25.840 --> 00:12:27.320
+Evan Bristow: Partnership. You said part.
+
+69
+00:12:27.320 --> 00:12:28.390
+Matt Coblentz: Partnership. Yes.
+
+70
+00:12:28.390 --> 00:12:29.490
+Matt Coblentz: Yeah. Well.
+
+71
+00:12:29.490 --> 00:12:30.910
+Evan Woollacott: Partner, bookings.
+
+72
+00:12:31.660 --> 00:12:36.700
+Matt Coblentz: Yeah, like, oh, okay, how much of the partners influence our bookings and all all of that, and what
+
+73
+00:12:37.206 --> 00:12:49.989
+Matt Coblentz: and where, and you know. And then Don Feldman says, Oh, no, Tsd's and do this, and Tyler and Connor look at me like dude. Just use the damn dashboard because you'll never you can't repeat that logic.
+
+74
+00:12:51.800 --> 00:12:55.910
+Matt Coblentz: and I'm hoping there's no logic in the dashboard that it's all in some other data set. They have.
+
+75
+00:12:56.482 --> 00:13:02.020
+Evan Bristow: Most of what Connor has is literally just another
+
+76
+00:13:02.590 --> 00:13:08.879
+Evan Bristow: append from something else. I would almost tell you to go to the go to the data set that
+
+77
+00:13:09.130 --> 00:13:22.260
+Evan Bristow: populates the dashboard. But except for the problem is, we do some sausage making in there to get targets and stuff. So they're fake rows of data that have targets for tableau display purposes. So I don't want you to accidentally get goofed up by anything.
+
+78
+00:13:24.120 --> 00:13:27.881
+Evan Bristow: Let me see if it's gonna let me connect to tableau server here and
+
+79
+00:13:29.870 --> 00:13:34.950
+Evan Bristow: and then I will see if I can actually copy that.
+
+80
+00:13:35.340 --> 00:13:37.670
+Evan Bristow: It says I'm signed in what the poo.
+
+81
+00:13:37.670 --> 00:13:39.970
+Matt Coblentz: Well, there you go right.
+
+82
+00:13:40.480 --> 00:13:44.550
+Evan Bristow: Odd it was telling me I couldn't publish this.
+
+83
+00:13:47.150 --> 00:13:53.053
+Matt Coblentz: There are days when I actually take it at its face value. I'm like, Oh, sorry I boss. I just couldn't do any work today.
+
+84
+00:13:53.290 --> 00:13:56.850
+Evan Bristow: Nope, it's done sorry, Computer said. No.
+
+85
+00:13:57.190 --> 00:14:00.229
+Matt Coblentz: Computer said, no, sorry, Dave. I'm afraid I can't do that
+
+86
+00:14:03.110 --> 00:14:04.989
+Matt Coblentz: partnership, you know. There you go.
+
+87
+00:14:05.560 --> 00:14:07.940
+Evan Bristow: Bullcott probably doesn't give. Get that reference.
+
+88
+00:14:08.230 --> 00:14:09.619
+Evan Bristow: Oh, oh, we do.
+
+89
+00:14:12.190 --> 00:14:13.040
+Evan Bristow: Youngins.
+
+90
+00:14:15.044 --> 00:14:18.049
+Evan Bristow: Alright, it is downloading. Give me a hot minute.
+
+91
+00:14:19.120 --> 00:14:23.450
+Evan Bristow: But one other thing that this is another thing. They're tossing around
+
+92
+00:14:25.100 --> 00:14:27.430
+Evan Bristow: in terms of L to C.
+
+93
+00:14:28.050 --> 00:14:28.800
+Matt Coblentz: And it.
+
+94
+00:14:28.800 --> 00:14:30.319
+Evan Bristow: Kind of got me thinking. So
+
+95
+00:14:31.580 --> 00:14:37.900
+Evan Bristow: in l 2 c. Design, we've got the thing where an ae can't switch from a primary quote to a non primary quote
+
+96
+00:14:38.530 --> 00:14:41.099
+Evan Bristow: or not, they can't switch from
+
+97
+00:14:41.320 --> 00:14:44.259
+Evan Bristow: a primary quote to a non-approved secondary.
+
+98
+00:14:44.410 --> 00:14:50.230
+Evan Bristow: So that's gonna take care of a lot of the switching quotes to tank the
+
+99
+00:14:50.670 --> 00:14:53.930
+Evan Bristow: value of an opportunity when it's near the end.
+
+100
+00:14:54.840 --> 00:15:02.050
+Evan Bristow: Accidentally, there could still be some intentional ways of doing that
+
+101
+00:15:02.180 --> 00:15:05.589
+Evan Bristow: in L. 2 C. There's going to be this thing called a quote recall.
+
+102
+00:15:05.960 --> 00:15:11.169
+Evan Bristow: So if it's been approved, they can recall the quote and make changes to it, and then resubmit it.
+
+103
+00:15:11.880 --> 00:15:14.770
+Matt Coblentz: But then it still has to go through the deal desk process correct.
+
+104
+00:15:14.770 --> 00:15:15.730
+Evan Bristow: Yes, depending on.
+
+105
+00:15:15.730 --> 00:15:16.969
+Matt Coblentz: Once it's recalled.
+
+106
+00:15:17.410 --> 00:15:20.400
+Evan Bristow: It correct, but
+
+107
+00:15:20.670 --> 00:15:30.100
+Evan Bristow: it depends on the change, on whether or not it goes through automatic approvals versus versus a deal review. So like, if they just change something about like
+
+108
+00:15:30.910 --> 00:15:34.800
+Evan Bristow: some non recurring part or something like that, that is not
+
+109
+00:15:35.390 --> 00:15:42.140
+Evan Bristow: yeah, or Zip, zip code, or something like that, where it doesn't have to go back to all these checks. It'll just go through automatic approvals, and it'll just it'll go
+
+110
+00:15:42.688 --> 00:15:51.159
+Evan Bristow: versus if they're changing gross acv drastically. And I I'm pretty sure there's some kind of rules like 10%. Blah blah. I don't
+
+111
+00:15:51.791 --> 00:15:57.069
+Evan Bristow: as long as it'll go outside of bounds it'll just go long and short is
+
+112
+00:15:57.800 --> 00:16:01.589
+Evan Bristow: technically there is a way for an ae to take the deal.
+
+113
+00:16:01.720 --> 00:16:06.759
+Evan Bristow: They could withdraw the deal and delete all the delete all the line items out of it.
+
+114
+00:16:08.180 --> 00:16:11.150
+Evan Bristow: I don't know how frequent that is gonna occur.
+
+115
+00:16:11.550 --> 00:16:17.959
+Evan Bristow: but what we had talked about doing, or at least the the solve for that on our side.
+
+116
+00:16:18.180 --> 00:16:23.860
+Evan Bristow: is going to be the last best quote before close lost.
+
+117
+00:16:24.880 --> 00:16:28.600
+Evan Bristow: So I don't know that we can do it in classic because classic.
+
+118
+00:16:29.310 --> 00:16:31.950
+Evan Bristow: But in l. 2 C. Since things will be cleaner.
+
+119
+00:16:32.260 --> 00:16:35.299
+Evan Bristow: we should be able to just look through the stage history
+
+120
+00:16:35.540 --> 00:16:41.769
+Evan Bristow: and find the last time that it had an approved quote and pull the gross acb at that point in time.
+
+121
+00:16:44.230 --> 00:16:45.000
+Matt Coblentz: Okay.
+
+122
+00:16:45.370 --> 00:16:46.260
+Evan Bristow: So.
+
+123
+00:16:46.260 --> 00:16:47.669
+Matt Coblentz: If it had an approved quote. Yeah.
+
+124
+00:16:47.670 --> 00:16:49.440
+Evan Bristow: Yes, yeah, if it had an approved quote.
+
+125
+00:16:49.680 --> 00:16:56.630
+Evan Bristow: So that's 1 thing that we're contemplating doing, which would impact win rates potential.
+
+126
+00:16:57.590 --> 00:17:04.059
+Matt Coblentz: Win rates. I don't know. I mean, we win when we win. We calculate win rates off a stage.
+
+127
+00:17:06.450 --> 00:17:08.320
+Matt Coblentz: I mean loss rates, sure
+
+128
+00:17:08.540 --> 00:17:13.319
+Matt Coblentz: or total. Maybe maybe you're also talking about the total population value. Right? Yeah, okay.
+
+129
+00:17:14.587 --> 00:17:16.560
+Evan Woollacott: Would change. Yeah.
+
+130
+00:17:16.569 --> 00:17:19.949
+Evan Bristow: Yeah, yeah, potentially size in your denominator. Yeah.
+
+131
+00:17:20.520 --> 00:17:21.170
+Matt Coblentz: Okay.
+
+132
+00:17:21.835 --> 00:17:27.509
+Evan Bristow: Again. We're not going to be an L. 2 C. Until at the minimum February.
+
+133
+00:17:27.859 --> 00:17:28.799
+Evan Bristow: So.
+
+134
+00:17:29.020 --> 00:17:29.690
+Matt Coblentz: Jeez! That's.
+
+135
+00:17:29.690 --> 00:17:31.220
+Evan Bristow: Nothing impacting there.
+
+136
+00:17:32.320 --> 00:17:36.779
+Evan Bristow: But that being said, I was kind of toying with the idea
+
+137
+00:17:37.540 --> 00:17:44.790
+Evan Bristow: of seeing if we could build something like that now and
+
+138
+00:17:44.960 --> 00:17:46.989
+Evan Bristow: see what you guys thought of it.
+
+139
+00:17:47.560 --> 00:17:51.019
+Matt Coblentz: I don't see any reason why we couldn't. Do
+
+140
+00:17:51.520 --> 00:17:57.849
+Matt Coblentz: you know a general analysis that says, you know, for those losses where the last quote.
+
+141
+00:17:58.860 --> 00:18:03.130
+Matt Coblentz: doesn't you know, wasn't approved right? We just go pull the value of the approved quote. I mean.
+
+142
+00:18:03.600 --> 00:18:11.124
+Matt Coblentz: it's a bit of a complicated query. But you know we could do it with a couple of. I bet I could do it with 3 collections, but that's because I'm lazy.
+
+143
+00:18:12.900 --> 00:18:16.410
+Evan Bristow: Because you can have. You can have multiple approved quotes on and off, too.
+
+144
+00:18:16.920 --> 00:18:18.389
+Matt Coblentz: Yeah, but you only want the last one.
+
+145
+00:18:19.640 --> 00:18:21.539
+Evan Bristow: The last one might not have been the primary.
+
+146
+00:18:22.280 --> 00:18:23.404
+Matt Coblentz: I don't give a shit.
+
+147
+00:18:24.170 --> 00:18:24.550
+Matt Coblentz: I do.
+
+148
+00:18:24.550 --> 00:18:25.210
+Matt Coblentz: Don't know.
+
+149
+00:18:26.400 --> 00:18:27.889
+Evan Bristow: Anyway, long, long, and
+
+150
+00:18:28.640 --> 00:18:34.359
+Evan Bristow: long, and short, is like you. You could pretty easily write a seque, write a SQL. Statement.
+
+151
+00:18:35.153 --> 00:18:36.200
+Evan Bristow: Looking at.
+
+152
+00:18:36.200 --> 00:18:42.129
+Matt Coblentz: I mean, that seems like, so you're just trying to estimate the impact of like, how different that is. Okay.
+
+153
+00:18:42.300 --> 00:18:51.639
+Evan Bristow: Yeah, you can use sales. Pipeline history. 3. So like in sales. Pipeline history. 3. Just fine, you know, for everything that doesn't have an approved quote at the end
+
+154
+00:18:51.960 --> 00:18:57.163
+Evan Bristow: find the Max date of the last primary last.
+
+155
+00:18:57.910 --> 00:18:58.830
+Matt Coblentz: Approved, quote.
+
+156
+00:18:58.830 --> 00:18:59.550
+Evan Bristow: Approve.
+
+157
+00:19:00.220 --> 00:19:06.719
+Evan Bristow: Quote OP. And pull the gross A/C like it's 2, 3, 4 lines of code. Again.
+
+158
+00:19:08.260 --> 00:19:13.280
+Evan Bristow: I know that there's historically been a lot of shenanigans like that that's occurred.
+
+159
+00:19:13.490 --> 00:19:15.270
+Evan Bristow: I just don't know the size or something.
+
+160
+00:19:15.270 --> 00:19:23.070
+Matt Coblentz: I, you know I don't have the feeling that that occurs all I mean. I don't know why they would bother. Seems like an awful lot of work to hide your
+
+161
+00:19:23.570 --> 00:19:24.560
+Matt Coblentz: failure. But.
+
+162
+00:19:24.560 --> 00:19:43.520
+Evan Bristow: Well see that that's the thing is, we don't know. All we know is the quote changed. We don't know if they were trying to just oh, I still, I think I got a fighting chance. I'm gonna make a new quote. I'm gonna start off and I'm gonna build it up and go back to the customer. And maybe while they click on new and switch the primary, they get a phone call or an email that says, Sorry.
+
+163
+00:19:44.020 --> 00:19:47.739
+Evan Bristow: you know you've been great, but we should just be friends.
+
+164
+00:19:48.490 --> 00:19:49.356
+Matt Coblentz: You know.
+
+165
+00:19:50.800 --> 00:20:00.569
+Matt Coblentz: I bet this only occurs for people that are no longer with Genesis, because my guess is, you have that kind of behavior often enough. Your boss is going to be like, I don't need your. I don't need your crap anymore.
+
+166
+00:20:00.810 --> 00:20:02.450
+Evan Bristow: Potentially, but.
+
+167
+00:20:02.600 --> 00:20:09.799
+Matt Coblentz: You know, but the good ones that stick around probably don't do that, so I don't know. But I'm willing to bet
+
+168
+00:20:11.270 --> 00:20:15.800
+Matt Coblentz: for fun that you won't find a significant number of those.
+
+169
+00:20:17.290 --> 00:20:19.370
+Evan Bristow: The number. The number is not the issue.
+
+170
+00:20:20.298 --> 00:20:22.689
+Matt Coblentz: Okay. Okay. Okay. Okay.
+
+171
+00:20:22.690 --> 00:20:24.270
+Evan Bristow: It's the size.
+
+172
+00:20:27.700 --> 00:20:30.600
+Matt Coblentz: Can't. I can't see it being.
+
+173
+00:20:33.090 --> 00:20:35.590
+Matt Coblentz: I must be a really trusting guy. I just don't.
+
+174
+00:20:35.590 --> 00:20:36.180
+Evan Bristow: God, no.
+
+175
+00:20:36.180 --> 00:20:37.129
+Matt Coblentz: A big impact.
+
+176
+00:20:37.130 --> 00:20:43.539
+Evan Bristow: Yeah, there was like at the at the end of the year. What was it 2 years ago? Which is why we put this requirement in Ltc.
+
+177
+00:20:43.800 --> 00:20:46.749
+Evan Bristow: It's been that Long Len came to me, and he's like
+
+178
+00:20:47.910 --> 00:20:53.850
+Evan Bristow: what happened to these these deals in my in my loss report. I expected to see these 3 or 4
+
+179
+00:20:54.060 --> 00:20:58.740
+Evan Bristow: 1 million 2 million dollar deals. They're nowhere to be found like they're not at the top of the list
+
+180
+00:20:58.870 --> 00:21:04.379
+Evan Bristow: like well, they're not. They don't have that value anymore. Then, lo and behold!
+
+181
+00:21:04.740 --> 00:21:06.810
+Evan Bristow: Like, you know, it's like the
+
+182
+00:21:07.210 --> 00:21:12.340
+Evan Bristow: 2 million 3 million dollar deals where this shit's happening is, they're tanking the value.
+
+183
+00:21:13.820 --> 00:21:15.649
+Evan Bristow: whatever reason we don't know
+
+184
+00:21:16.539 --> 00:21:22.029
+Evan Bristow: cause. Maybe there's some vestiges from places they used to work where they would get dinged on win rates.
+
+185
+00:21:22.300 --> 00:21:23.100
+Evan Bristow: anyway.
+
+186
+00:21:24.060 --> 00:21:28.809
+Evan Bristow: But it's a small number of deals, but like those are the ones that
+
+187
+00:21:28.930 --> 00:21:34.245
+Evan Bristow: when you're talking about enter enterprise space and looking at like us versus a nicer
+
+188
+00:21:34.900 --> 00:21:39.590
+Evan Bristow: Whatever the else we compete with for enterprise space, the
+
+189
+00:21:39.780 --> 00:21:47.040
+Evan Bristow: the valid deals are so few that we don't want those to give us, false false hope, right.
+
+190
+00:21:47.040 --> 00:21:52.469
+Matt Coblentz: Now. The real other half of that question, I suppose, is, how many times does that happen with a partner? Not that
+
+191
+00:21:53.280 --> 00:21:57.080
+Matt Coblentz: I could see partners knocking around with things because they don't know. So.
+
+192
+00:21:57.080 --> 00:21:59.540
+Evan Bristow: Partners. Currently, partners do not quote
+
+193
+00:22:04.300 --> 00:22:09.420
+Evan Bristow: eighties to the quoting, okay in the future. Yeah.
+
+194
+00:22:09.630 --> 00:22:10.540
+Evan Bristow: But again, that's why.
+
+195
+00:22:10.540 --> 00:22:13.139
+Matt Coblentz: Resellers resellers. We don't have.
+
+196
+00:22:14.370 --> 00:22:15.090
+Evan Bristow: The only
+
+197
+00:22:15.090 --> 00:22:20.169
+Evan Bristow: selecting. Yep, they they bring it to an ae. The ae quotes it out for him, sends them the quote.
+
+198
+00:22:23.070 --> 00:22:25.279
+Matt Coblentz: Well, there's something I didn't know. Yeah.
+
+199
+00:22:29.800 --> 00:22:33.770
+Matt Coblentz: well, I'm still a trusting guy. I still think it's gonna be less than 10%.
+
+200
+00:22:34.040 --> 00:22:37.279
+Evan Bristow: Oh, yeah, it'll be less than 10%. But it'll be like
+
+201
+00:22:37.750 --> 00:22:40.280
+Evan Bristow: a a few number of big Ops where it's
+
+202
+00:22:40.500 --> 00:22:42.819
+Evan Bristow: meeting. Anyway. I don't want to talk here.
+
+203
+00:22:42.820 --> 00:22:49.080
+Matt Coblentz: Real question is, does it occur in the same same teams? Same place, you know.
+
+204
+00:22:49.260 --> 00:22:51.149
+Matt Coblentz: That's what I'd be more interested in that.
+
+205
+00:22:51.150 --> 00:22:53.560
+Evan Bristow: Yeah, that I have not. I have not checked.
+
+206
+00:22:54.190 --> 00:23:00.719
+Matt Coblentz: Yeah, I'm gonna guess that it's like, or permissive teams.
+
+207
+00:23:01.180 --> 00:23:06.720
+Matt Coblentz: And we could shut that down fast enough with a course corrective conversation.
+
+208
+00:23:06.720 --> 00:23:07.260
+Evan Bristow: Yeah.
+
+209
+00:23:07.810 --> 00:23:15.039
+Evan Bristow: yep. And that's why we we created a dashboard that shows changes to opportunities week over week. And that was one of the things that it highlights is.
+
+210
+00:23:15.700 --> 00:23:19.590
+Evan Bristow: you know. Here's any of your significant value. Changes on your opportunities.
+
+211
+00:23:20.030 --> 00:23:21.839
+Evan Bristow: Did it change my part of the guy.
+
+212
+00:23:21.840 --> 00:23:24.460
+Matt Coblentz: Clean your room set, or is that another dashboard.
+
+213
+00:23:24.460 --> 00:23:26.679
+Evan Bristow: It's another one, it is
+
+214
+00:23:28.240 --> 00:23:29.789
+Matt Coblentz: Well, that would be fun to look at, wouldn't it?
+
+215
+00:23:29.790 --> 00:23:33.448
+Evan Bristow: Let's see where where it was. What the hell did I call it?
+
+216
+00:23:36.720 --> 00:23:38.340
+Evan Bristow: I don't remember. Let me look
+
+217
+00:23:40.340 --> 00:23:43.359
+Evan Bristow: because I've I've since given it to Connor for maintenance.
+
+218
+00:23:44.010 --> 00:23:44.530
+Matt Coblentz: Okay.
+
+219
+00:23:45.273 --> 00:23:46.760
+Evan Bristow: Blah, blah!
+
+220
+00:23:55.930 --> 00:23:57.550
+Evan Bristow: Pipeline changes.
+
+221
+00:23:59.600 --> 00:24:03.820
+Evan Bristow: Yeah, this guy right here, chat.
+
+222
+00:24:06.820 --> 00:24:07.546
+Matt Coblentz: Got it.
+
+223
+00:24:08.770 --> 00:24:14.170
+Matt Coblentz: Okay? And let's go back to your other thing. Hot minute is up.
+
+224
+00:24:14.390 --> 00:24:17.239
+Matt Coblentz: Whoops signed in. Oh, my goodness!
+
+225
+00:24:18.450 --> 00:24:22.029
+Matt Coblentz: Do you think tableau lets you in.
+
+226
+00:24:25.120 --> 00:24:26.259
+Evan Bristow: I can just show it to you.
+
+227
+00:24:28.300 --> 00:24:29.500
+Matt Coblentz: You can do that too.
+
+228
+00:24:30.790 --> 00:24:34.750
+Evan Bristow: Yeah, basically, waterfall. So you put your 2 dates in.
+
+229
+00:24:35.600 --> 00:24:39.489
+Evan Bristow: or it just it defaults to a week ago. So show me what the differences are between those.
+
+230
+00:24:39.490 --> 00:24:44.409
+Matt Coblentz: Yeah, no pipeline change. Yeah. No. I was talking about the rules for the competitive part thing.
+
+231
+00:24:44.810 --> 00:24:45.530
+Evan Bristow: Oh, that's.
+
+232
+00:24:46.200 --> 00:24:47.220
+Matt Coblentz: Bad thing.
+
+233
+00:24:47.220 --> 00:24:48.070
+Evan Bristow: That thing.
+
+234
+00:24:48.900 --> 00:24:52.800
+Evan Bristow: Oh, where is it?
+
+235
+00:24:52.940 --> 00:24:54.400
+Evan Bristow: Here? Yes.
+
+236
+00:25:03.310 --> 00:25:04.000
+Evan Bristow: here we go.
+
+237
+00:25:05.700 --> 00:25:06.450
+Matt Coblentz: Oh, my!
+
+238
+00:25:13.620 --> 00:25:16.410
+Evan Bristow: What did I call competitive? Versus? No.
+
+239
+00:25:27.390 --> 00:25:28.500
+Matt Coblentz: Hot, digging.
+
+240
+00:25:29.030 --> 00:25:32.879
+Evan Bristow: Alright, Mister Matt, see if I can find you, Matt.
+
+241
+00:25:33.100 --> 00:25:34.020
+Evan Bristow: See.
+
+242
+00:25:38.610 --> 00:25:43.310
+Evan Bristow: I'll paste this, and it does use.
+
+243
+00:25:44.870 --> 00:25:48.339
+Evan Bristow: So then it defaults to this competitive versus non competitive.
+
+244
+00:25:48.540 --> 00:25:50.920
+Evan Bristow: If it's not one of these other things.
+
+245
+00:25:50.920 --> 00:25:52.260
+Matt Coblentz: It's a case statement. Okay.
+
+246
+00:25:53.410 --> 00:26:03.390
+Evan Bristow: And then this is basically the noncompetitives are legacy cleanup, reduced by any slash, no action taken.
+
+247
+00:26:04.230 --> 00:26:04.890
+Matt Coblentz: Okay.
+
+248
+00:26:04.890 --> 00:26:07.819
+Evan Bristow: I don't know if you want to screen crap, screen, crap that.
+
+249
+00:26:09.292 --> 00:26:11.179
+Matt Coblentz: I'm recording it so.
+
+250
+00:26:11.180 --> 00:26:13.039
+Evan Bristow: Oh, you are okay. There you go.
+
+251
+00:26:13.040 --> 00:26:13.890
+Matt Coblentz: Yeah.
+
+252
+00:26:14.380 --> 00:26:15.230
+Evan Bristow: And then the competitiveness.
+
+253
+00:26:15.230 --> 00:26:18.190
+Matt Coblentz: Apparently I have it on by default, so I'll just leave it.
+
+254
+00:26:18.370 --> 00:26:20.829
+Evan Bristow: Creepy. Hope you don't have AI on by default.
+
+255
+00:26:21.640 --> 00:26:23.800
+Matt Coblentz: Yeah, well, sometimes.
+
+256
+00:26:23.800 --> 00:26:24.200
+Evan Bristow: Yeah.
+
+257
+00:26:24.200 --> 00:26:25.120
+Matt Coblentz: I don't know.
+
+258
+00:26:25.120 --> 00:26:28.830
+Evan Bristow: It's how they get you, anyway.
+
+259
+00:26:28.830 --> 00:26:29.410
+Matt Coblentz: Great.
+
+260
+00:26:29.410 --> 00:26:30.550
+Evan Bristow: Well, you get that now.
+
+261
+00:26:30.990 --> 00:26:31.870
+Matt Coblentz: I got that.
+
+262
+00:26:31.870 --> 00:26:36.799
+Evan Bristow: So the other thing is, did you hear the news about that AI Company out of India?
+
+263
+00:26:36.970 --> 00:26:38.819
+Evan Bristow: The AI App Making Company.
+
+264
+00:26:39.740 --> 00:26:40.669
+Matt Coblentz: Oh, cool. Nope.
+
+265
+00:26:40.670 --> 00:26:45.650
+Evan Bristow: So so apparently you'd submit this thing to AI, and it would the AI would make you an app.
+
+266
+00:26:47.140 --> 00:26:48.290
+Evan Bristow: turns out.
+
+267
+00:26:48.886 --> 00:26:49.340
+Evan Woollacott: There's no.
+
+268
+00:26:49.340 --> 00:26:54.529
+Evan Bristow: There's no AI. There's 600 Indians sitting in a in a warehouse somewhere.
+
+269
+00:26:54.896 --> 00:26:55.290
+Evan Woollacott: You know.
+
+270
+00:26:55.290 --> 00:26:56.819
+Evan Bristow: These apps for you.
+
+271
+00:26:57.320 --> 00:26:59.940
+Evan Woollacott: Didn't Microsoft just spend 1.5 billion.
+
+272
+00:26:59.940 --> 00:27:02.400
+Evan Bristow: Yeah. And they invested like 1.5 billion dollars in it.
+
+273
+00:27:03.980 --> 00:27:04.690
+Evan Woollacott: Oops!
+
+274
+00:27:05.790 --> 00:27:09.339
+Matt Coblentz: Yeah, where's your due diligence there? But you didn't even go to visit.
+
+275
+00:27:09.630 --> 00:27:13.850
+Evan Bristow: Well, then, they they find, like they said, that their revenue was something like, you know.
+
+276
+00:27:14.220 --> 00:27:18.380
+Evan Bristow: 200 million dollars, or something like that last quarter, and I had like 10 million dollars in revenue.
+
+277
+00:27:19.570 --> 00:27:24.830
+Evan Bristow: and it's like somebody somebody got paid.
+
+278
+00:27:25.300 --> 00:27:28.051
+Matt Coblentz: Somebody made a lot of money.
+
+279
+00:27:28.510 --> 00:27:30.520
+Matt Coblentz: but it made a lot. Yeah.
+
+280
+00:27:32.060 --> 00:27:32.640
+Matt Coblentz: Now.
+
+281
+00:27:32.640 --> 00:27:33.190
+Evan Bristow: Anyway.
+
+282
+00:27:33.510 --> 00:27:39.420
+Matt Coblentz: Somebody and somebody else should stop making a lot of money. You you're the weakest link. You're gone.
+
+283
+00:27:40.740 --> 00:27:43.090
+Evan Bristow: Alright. You need anything else from me, my friend.
+
+284
+00:27:43.360 --> 00:27:44.130
+Matt Coblentz: No, sir.
+
+285
+00:27:44.360 --> 00:27:52.467
+Matt Coblentz: I think we have enough to be successful and cause additional trouble as needed. You can certainly blame us all the time.
+
+286
+00:27:53.210 --> 00:27:53.889
+Matt Coblentz: and
+
+287
+00:27:54.980 --> 00:28:02.369
+Matt Coblentz: I will probably start. I know I have to go off to Ccw. But if I get to it this week I may even start digging into a whole
+
+288
+00:28:02.930 --> 00:28:05.230
+Matt Coblentz: last best quote question.
+
+289
+00:28:06.540 --> 00:28:08.779
+Evan Bristow: If you got the time. No other stuff too.
+
+290
+00:28:09.250 --> 00:28:12.769
+Matt Coblentz: I think it's gonna be more team related than it's gonna be. I mean.
+
+291
+00:28:13.650 --> 00:28:18.699
+Matt Coblentz: I think there were going to be egregious areas. And I think we're gonna find the correlation is related to the manager.
+
+292
+00:28:20.410 --> 00:28:21.930
+Evan Bristow: I'd be interested to know what you find.
+
+293
+00:28:23.080 --> 00:28:24.210
+Evan Bristow: Okay. Alright.
+
+294
+00:28:24.210 --> 00:28:27.199
+Matt Coblentz: I will be able to publish, and then you can actually check the logic.
+
+295
+00:28:27.940 --> 00:28:29.360
+Evan Bristow: Cheers my friends.
+
+296
+00:28:31.660 --> 00:28:32.230
+Evan Woollacott: Thank you.
+
+297
+00:28:32.230 --> 00:28:33.140
+Evan Bristow: Always.
+
+298
+00:28:34.140 --> 00:28:34.810
+Matt Coblentz: Thanks.
+
+299
+00:28:37.160 --> 00:28:38.380
+Matt Coblentz: All right. Chief.
+
+300
+00:28:41.440 --> 00:28:42.620
+Evan Woollacott: Progress.
+
+301
+00:28:43.730 --> 00:28:51.780
+Matt Coblentz: Indeed, we can actually duplicate then everything that he's got in this little tableau anytime you need to do
+
+302
+00:28:52.500 --> 00:28:53.410
+Matt Coblentz: shit.
+
+303
+00:28:54.150 --> 00:28:54.929
+Matt Coblentz: That doesn't.
+
+304
+00:28:54.930 --> 00:28:57.799
+Evan Woollacott: That's the that is the hope.
+
+305
+00:28:58.380 --> 00:29:00.029
+Matt Coblentz: Come piece of cake.
+
+306
+00:29:01.420 --> 00:29:05.741
+Matt Coblentz: Don't think if he can send it to me by chat. It ain't that big
+
+307
+00:29:06.030 --> 00:29:08.680
+Evan Woollacott: No, I've seen the logic. It's not that crazy.
+
+308
+00:29:10.020 --> 00:29:13.450
+Matt Coblentz: Yeah, Evan Bristow.
+
+309
+00:29:13.660 --> 00:29:15.900
+Matt Coblentz: No, it's a simple case statement.
+
+310
+00:29:16.800 --> 00:29:21.979
+Matt Coblentz: He's just doing groupings piece of cake.
+
+311
+00:29:23.280 --> 00:29:24.770
+Matt Coblentz: Alrighty. Then
+
+312
+00:29:28.100 --> 00:29:33.780
+Matt Coblentz: we will be able to make noise.
+
+313
+00:29:35.190 --> 00:29:37.040
+Evan Woollacott: We like to be able to do.
+
+314
+00:29:37.310 --> 00:29:37.970
+Matt Coblentz: Yeah.
+
+315
+00:29:38.340 --> 00:29:44.360
+Matt Coblentz: Well, the real thing. What I was originally thinking was, Wow, we could just hook, excel up to Snowflake. There's a connector for that, but
+
+316
+00:29:45.030 --> 00:29:52.120
+Matt Coblentz: it's painfully slow, and probably not worth it. You would pull your hair out, strand by strand.
+
+317
+00:29:53.570 --> 00:29:54.400
+Evan Woollacott: Believable.
+
+318
+00:29:55.250 --> 00:29:56.159
+Matt Coblentz: It's awful!
+
+319
+00:29:56.570 --> 00:30:02.390
+Matt Coblentz: I tried it, and I'm like, Oh, my God! I tried to load a million rows, and I'm like, Stop! I don't want this.
+
+320
+00:30:04.490 --> 00:30:06.699
+Matt Coblentz: I had to crash, excel, to make it work.
+
+321
+00:30:08.820 --> 00:30:10.570
+Matt Coblentz: Anything else I can do for you.
+
+322
+00:30:12.100 --> 00:30:13.196
+Evan Woollacott: I don't think so.
+
+323
+00:30:13.870 --> 00:30:17.279
+Matt Coblentz: Do we know what we need to do for a Vanessa cause? I sure don't. But.
+
+324
+00:30:21.140 --> 00:30:23.630
+Evan Woollacott: So we're.
+
+325
+00:30:23.630 --> 00:30:25.370
+Matt Coblentz: You have clues to the plan.
+
+326
+00:30:25.370 --> 00:30:30.336
+Evan Woollacott: I have some clues. I can pop it up real quick.
+
+327
+00:30:30.750 --> 00:30:32.920
+Matt Coblentz: Did you get a response back from Az and team.
+
+328
+00:30:33.370 --> 00:30:36.260
+Evan Woollacott: We had a meeting today, too, which was helpful.
+
+329
+00:30:37.400 --> 00:30:42.144
+Evan Woollacott: But basically what we're gonna
+
+330
+00:30:43.350 --> 00:30:45.300
+Evan Woollacott: this is what we're gonna do. Let me just show you
+
+331
+00:30:45.710 --> 00:30:48.740
+Evan Woollacott: we're gonna steam this week. It's only Wednesday,
+
+332
+00:30:51.580 --> 00:30:54.660
+Evan Woollacott: so we're gonna build them some slides.
+
+333
+00:30:55.520 --> 00:31:04.320
+Evan Woollacott: And we we set a conversation with Dolan
+
+334
+00:31:04.520 --> 00:31:12.360
+Evan Woollacott: and some others that are on his team, and some others who weren't. And what sort of bubbled up
+
+335
+00:31:12.680 --> 00:31:17.729
+Evan Woollacott: is. There's like 2 actions that need to occur here for this go to market plan.
+
+336
+00:31:18.290 --> 00:31:21.200
+Evan Woollacott: There's the near term move where
+
+337
+00:31:21.360 --> 00:31:32.629
+Evan Woollacott: there's existing sales, levers that can be bent. Quote unquote bent to service the needs of Smb, so there's like a partner lever, that's 20%. And you could
+
+338
+00:31:32.780 --> 00:31:45.000
+Evan Woollacott: like adjust it. So it's more maximal maximize its effect in smb, so basically, what that allows Dolan to do is he doesn't need to get approvals, but he can like jigger it, so to speak.
+
+339
+00:31:45.380 --> 00:31:54.079
+Evan Woollacott: And now it's a new lever, but it's really just a tie into an existing one, because otherwise you need like executive approval. Blah, blah blah blah to do anything.
+
+340
+00:31:54.690 --> 00:32:04.699
+Evan Woollacott: So there's gonna be a Band-aid response, but that allows for speed and agility to respond basically to what what we're seeing to give sales some help down market.
+
+341
+00:32:05.670 --> 00:32:07.260
+Evan Woollacott: But, as we know.
+
+342
+00:32:07.610 --> 00:32:18.679
+Evan Woollacott: a half measure is not enough to deal with what we're seeing like. Our competitors are all taking full measures already to attack us and blow us up. We're responding with Band-aids.
+
+343
+00:32:18.790 --> 00:32:20.800
+Evan Woollacott: So we need to do more.
+
+344
+00:32:21.110 --> 00:32:28.309
+Evan Woollacott: But like we need, you can't. Just. We can't figure out what we need to do in a week like we. That's a large problem to solve.
+
+345
+00:32:28.670 --> 00:32:54.909
+Evan Woollacott: And so like, that's kind of like what the it's like long term, we need to do more. But we need to like, do our due diligence before we just say what we need like? It needs to be a new package. Probably there needs to like a college essentials bundle, or something like that, or there needs to be like beat. Nice. Beat 5, 9. Beat Amazon Smb plays that they can use that. Maybe there's a larger discounting
+
+346
+00:32:55.300 --> 00:33:02.020
+Evan Woollacott: threshold, whatever it might be, or there's Tsd support like there's all sorts of things that will go into that right? So it's it's not just one thing.
+
+347
+00:33:02.390 --> 00:33:05.659
+Evan Woollacott: And so we're building a slide to kind of
+
+348
+00:33:05.840 --> 00:33:18.419
+Evan Woollacott: put that out based off like, that's our recommendation, almost like from the competitive market. What we're seeing. We're getting our asses handed to us. We need to do something rapidly. And then we also need to think through this logically long term.
+
+349
+00:33:18.740 --> 00:33:35.039
+Evan Woollacott: and I've already texted this sort of theory, or whatever belief to Az, and he's like, I agree completely. Cause on the call. I didn't want to say it out loud, because I don't want to get out of my skis and lob a grenade into this meeting. Be like, yeah, this isn't yeah. It's good, but not good enough.
+
+350
+00:33:36.187 --> 00:33:52.239
+Evan Woollacott: And he he's like, next time, just love it like, I'll take the heat. Because I think you're right. Basically. So we're so that's a long context. I just want to give you context. We're gonna we're building this slide now, this deck. Sorry deck. We'll call it 3 to 5 slide deck.
+
+351
+00:33:52.640 --> 00:33:57.810
+Evan Woollacott: We'll have this sort of executive summary view, and I've modified the competitive recap
+
+352
+00:33:58.010 --> 00:34:06.260
+Evan Woollacott: where it was before. It was like trend recommendation. Ci action. But now it's like trend need recommendation.
+
+353
+00:34:06.460 --> 00:34:07.670
+Evan Woollacott: And so.
+
+354
+00:34:08.070 --> 00:34:10.170
+Matt Coblentz: Can kind of follow the logic. There.
+
+355
+00:34:10.600 --> 00:34:11.850
+Evan Woollacott: And then.
+
+356
+00:34:12.520 --> 00:34:18.650
+Evan Woollacott: as we keep hearing, we need to quantify the pain whatever that means. So how we're gonna quantify that pain.
+
+357
+00:34:19.669 --> 00:34:28.049
+Evan Woollacott: We're gonna show the competitive Gcv count win rates. For this is just commercial, obviously for Genesis. Nice Amazon. 5, 9.
+
+358
+00:34:28.440 --> 00:34:34.859
+Evan Woollacott: Vanessa wanted quarterly views. But it's kind of hard cause. It's it's so wonky like Amazon.
+
+359
+00:34:34.860 --> 00:34:35.480
+Matt Coblentz: Very lumpy.
+
+360
+00:34:35.489 --> 00:34:46.579
+Evan Woollacott: q, 1 will be like 25%, and then in Q, 2 will be like 80, and then Q 3, it'll be 0, cause like there's no deals. So I settled on yearly, because I think it's better representation.
+
+361
+00:34:47.603 --> 00:34:48.509
+Evan Woollacott: But yes.
+
+362
+00:34:48.510 --> 00:34:52.480
+Matt Coblentz: We could do. Yeah, we could do it. Yeah, when basically, it's a trailing.
+
+363
+00:34:52.650 --> 00:34:55.110
+Matt Coblentz: You know, Allison.
+
+364
+00:34:55.110 --> 00:34:56.570
+Evan Woollacott: You could do at 2 Pm.
+
+365
+00:34:57.930 --> 00:35:04.079
+Evan Woollacott: I guess we could do that if we wanted, but I'd have to go rebuild it, and I'd rather see. Get
+
+366
+00:35:04.340 --> 00:35:14.659
+Evan Woollacott: Az reaction first, st and then we if you want. We can do that. But I thought about Ttm, but I don't like Ttm, because it's like you're diluted. I don't know. I I see what you're saying, you know.
+
+367
+00:35:16.127 --> 00:35:17.919
+Evan Woollacott: So this is helpful.
+
+368
+00:35:17.920 --> 00:35:21.260
+Matt Coblentz: Whether or not our stuff is having an impact, though. So that's actually why.
+
+369
+00:35:21.440 --> 00:35:22.210
+Evan Woollacott: Yeah,
+
+370
+00:35:24.530 --> 00:35:33.419
+Evan Woollacott: so sorry. Quantify the pain by just showing the win rates so that there's knowledge there. We know that they're talking a lot about win rates already. So this is to help Az.
+
+371
+00:35:33.820 --> 00:35:44.120
+Evan Woollacott: Next is your slot of just all I did was make it meter. I just think this is so hard to look at, but it's all your text. It's all your text. Still.
+
+372
+00:35:44.120 --> 00:35:44.910
+Matt Coblentz: I'm fine.
+
+373
+00:35:46.660 --> 00:35:51.749
+Evan Woollacott: I need a I'm probably gonna use chat to be Ti gotta try to trim this
+
+374
+00:35:52.080 --> 00:35:54.630
+Evan Woollacott: cause. I don't. It's super dense.
+
+375
+00:35:56.546 --> 00:36:01.289
+Matt Coblentz: So I originally had something that was much shorter, and Vanessa made me make it.
+
+376
+00:36:02.778 --> 00:36:08.149
+Matt Coblentz: She wanted it into pillars like 3 to 5 pillars each, and I'm like, Oh, my God! So.
+
+377
+00:36:10.260 --> 00:36:11.340
+Evan Woollacott: Yeah.
+
+378
+00:36:12.410 --> 00:36:22.019
+Matt Coblentz: The mean we can before you go crazy, you know. Let's just figure out what people like.
+
+379
+00:36:22.930 --> 00:36:27.489
+Evan Woollacott: Yeah, well, and I also wouldn't mind showing this to easy and getting his.
+
+380
+00:36:28.010 --> 00:36:29.510
+Matt Coblentz: Oh, exactly!
+
+381
+00:36:29.680 --> 00:36:49.740
+Evan Woollacott: And then like, if he's like, can we just trim it? Then it's like, Okay, let's go. Trim versus is the content fine the contents fine. Then why are we? Let's stop spinning on it. Basically the only one I do need to trim these 2 just so that they don't go over, but I can just use like Ampersand, and take out words here or there.
+
+382
+00:36:50.530 --> 00:36:55.090
+Matt Coblentz: Oh, yeah, we can do all kinds of things, including acronyms and.
+
+383
+00:36:55.450 --> 00:37:01.709
+Evan Woollacott: Yeah, like this one building an affordability. Now, key to winning.
+
+384
+00:37:02.490 --> 00:37:04.029
+Evan Woollacott: There, that's done.
+
+385
+00:37:06.510 --> 00:37:07.120
+Matt Coblentz: Yep.
+
+386
+00:37:09.940 --> 00:37:12.669
+Evan Woollacott: And then. So after that.
+
+387
+00:37:13.900 --> 00:37:19.660
+Evan Woollacott: it's this is supposed to be Vanessa working on it, but I don't see any effort yet, but.
+
+388
+00:37:19.960 --> 00:37:20.730
+Matt Coblentz: Alright!
+
+389
+00:37:21.100 --> 00:37:26.569
+Evan Woollacott: It's like tangible examples. So
+
+390
+00:37:27.200 --> 00:37:37.920
+Evan Woollacott: my recommendation was to do. She organized it backwards. But I was thinking, you just do like nice Amazon, 5, 9 others, and it would be like.
+
+391
+00:37:38.972 --> 00:37:54.649
+Evan Woollacott: Known or pricing and packing discounts, Ps, and like implementation discounts targeted campaigns or something. And then logo examples where we can hyperlink to pay fit blah blah blah.
+
+392
+00:37:55.210 --> 00:38:16.389
+Evan Woollacott: because then it's evidence of what we're saying, and it's proving that they're going far further than us on their discounts, even with. So our repurposing of existing levers is not gonna be enough, because, like the point is, it's not just responding to them. But it's making ourselves more appealing than them. And we are coming up short of that. We know already.
+
+393
+00:38:17.060 --> 00:38:19.975
+Evan Woollacott: They're doing 90% discounts. We're doing 20.
+
+394
+00:38:23.250 --> 00:38:24.500
+Evan Woollacott: So that's the current state.
+
+395
+00:38:24.500 --> 00:38:26.449
+Matt Coblentz: 5 with that for long, though.
+
+396
+00:38:26.790 --> 00:38:27.640
+Evan Woollacott: What's that?
+
+397
+00:38:27.640 --> 00:38:30.839
+Matt Coblentz: I don't see how they survive that way for long, though you know what I mean.
+
+398
+00:38:30.840 --> 00:38:34.380
+Evan Woollacott: Yeah, I mean, well, the interesting.
+
+399
+00:38:35.490 --> 00:38:42.095
+Evan Woollacott: This is why it takes like a lot. It's more than just thinking of an idea. But like, if you think about easy, send the call his
+
+400
+00:38:42.890 --> 00:38:49.881
+Evan Woollacott: their expansion average acv deal is like 60 k. Or something, and he's like it's time it's peanuts. But
+
+401
+00:38:50.730 --> 00:39:00.799
+Evan Woollacott: you rethink like our sales strategy where new Logos are 80% of his business. And he's getting clobbered in new logos because discounts. Yeah, yeah, yeah.
+
+402
+00:39:01.270 --> 00:39:19.040
+Evan Woollacott: if you stuff the hopper on one new Logos, and you're sacrificing whatever you're discounting here, you're giving free this or that. Whatever you're doing to sacrifice you're creating a bed of expansion opportunities for the long term, and he has shit expansion
+
+403
+00:39:19.733 --> 00:39:34.560
+Evan Woollacott: performance, basically. But if he had twice the wins per quarter, I'm making up numbers but twice the wins per quarter. You're now jamming full this opportunity base to go do AI upselling, and digital whatever else you're going to be upselling
+
+404
+00:39:35.280 --> 00:39:49.689
+Evan Woollacott: which would make whatever discount you're doing now. Less painful long term. So it's near term. That's exactly what our competitors are doing. It's not like. It's a groundbreaking idea. But given how his business is organized. As it is, it's like a big opportunity.
+
+405
+00:39:51.260 --> 00:39:56.619
+Matt Coblentz: Right, this dashboard makes your point.
+
+406
+00:39:59.860 --> 00:40:02.210
+Matt Coblentz: So yeah, I mean.
+
+407
+00:40:02.670 --> 00:40:09.340
+Matt Coblentz: we're we get a lot of deals and pipeline and tech and financials. But all the other verticals suck.
+
+408
+00:40:10.550 --> 00:40:15.100
+Matt Coblentz: So, Genesis, you know, that's a Len Fisher problem there.
+
+409
+00:40:16.860 --> 00:40:22.569
+Matt Coblentz: and we gotta find something we can do about it. Now that said, I also know that Tara Mahoney's team, and you know
+
+410
+00:40:22.750 --> 00:40:26.649
+Matt Coblentz: the, you know, like the healthcare overlays under Chris Becker.
+
+411
+00:40:27.100 --> 00:40:31.780
+Matt Coblentz: they're way over subscribed. So we got shit. We gotta take care of.
+
+412
+00:40:33.450 --> 00:40:37.240
+Matt Coblentz: If we're trying to pump up the volume, we better be prepared to back it up, or
+
+413
+00:40:37.840 --> 00:40:39.940
+Matt Coblentz: the reps won't get the deals done.
+
+414
+00:40:42.880 --> 00:40:43.590
+Evan Woollacott: Yeah.
+
+415
+00:40:43.590 --> 00:40:44.990
+Matt Coblentz: Yeah, alright.
+
+416
+00:40:46.320 --> 00:40:47.640
+Matt Coblentz: I'm down for this.
+
+417
+00:40:48.470 --> 00:40:54.559
+Evan Woollacott: Yeah, I well, I told Vanessa I was like, let's just make a template here and tell
+
+418
+00:40:55.504 --> 00:40:57.720
+Evan Woollacott: Jennifer Matt and Chinma.
+
+419
+00:40:57.720 --> 00:41:11.270
+Matt Coblentz: Jennifer, Jonathan Matt. And my, let's just start putting in, you know, like a 5, whatever you know, if there's a 5 9 displacement campaign. Talk about it. If there's a 5 9 Ps offering great, if there's nothing on pricing and packaging, skip it. That's okay.
+
+420
+00:41:11.270 --> 00:41:16.140
+Evan Woollacott: Yeah, I don't know where she's at. I don't know what she's done
+
+421
+00:41:18.371 --> 00:41:22.089
+Evan Woollacott: but yeah, I mean, we started hear you, too. But.
+
+422
+00:41:22.090 --> 00:41:27.099
+Matt Coblentz: Yeah, that's kind of like what she what Chin Mai started there. So let's just we could repackage what she's got, and just.
+
+423
+00:41:27.100 --> 00:41:35.680
+Evan Woollacott: It's just a prettier layout of what was already done. So it's by competitor. So you can see and like whatever it would be like core license discounts.
+
+424
+00:41:36.740 --> 00:41:40.560
+Evan Woollacott: And like, you would just be like whatever 75%.
+
+425
+00:41:42.130 --> 00:41:42.690
+Matt Coblentz: Yeah.
+
+426
+00:41:43.120 --> 00:41:46.120
+Evan Woollacott: Or above or whatever, and then
+
+427
+00:41:46.730 --> 00:41:56.830
+Evan Woollacott: rather than being like for pay, fit 75 for block. This, it's just like them examples over here. So if they people want to learn more, they can go to salesforce and go read the notes themselves.
+
+428
+00:41:57.510 --> 00:42:03.749
+Evan Woollacott: But that way it's just facts on a page as opposed to like a story, because we're telling the story upfront.
+
+429
+00:42:03.880 --> 00:42:06.439
+Evan Woollacott: This is just the evidence that we can link to.
+
+430
+00:42:07.060 --> 00:42:08.119
+Matt Coblentz: This works for me.
+
+431
+00:42:08.860 --> 00:42:09.520
+Evan Woollacott: There's 1.
+
+432
+00:42:09.520 --> 00:42:13.240
+Matt Coblentz: To slice it and dice it. But we can. You know I can work with this. So that's fine.
+
+433
+00:42:13.240 --> 00:42:15.450
+Evan Woollacott: Are you doing nothing? Do you want to just do it?
+
+434
+00:42:15.560 --> 00:42:20.880
+Evan Woollacott: I don't know what she's, she said. She's gonna do it, but she hasn't done a single thing since we spoke. So I would just yeah.
+
+435
+00:42:20.880 --> 00:42:21.740
+Matt Coblentz: Vanessa.
+
+436
+00:42:22.100 --> 00:42:23.630
+Evan Woollacott: She says she's gonna build this view.
+
+437
+00:42:24.386 --> 00:42:25.200
+Matt Coblentz: Not at.
+
+438
+00:42:25.200 --> 00:42:26.820
+Evan Woollacott: She did all this on the call
+
+439
+00:42:27.780 --> 00:42:30.059
+Evan Woollacott: my Rec. What I was gonna do.
+
+440
+00:42:30.060 --> 00:42:34.158
+Matt Coblentz: The woman is squirrelly right. I think she's overwhelmed with her stuff.
+
+441
+00:42:34.500 --> 00:42:35.200
+Evan Woollacott: Yeah.
+
+442
+00:42:35.500 --> 00:42:38.020
+Matt Coblentz: Not good, not bad, just is. But she.
+
+443
+00:42:38.020 --> 00:42:42.339
+Evan Woollacott: If I were building it, though I would do this, I would do the vendors across the top.
+
+444
+00:42:42.340 --> 00:42:43.929
+Matt Coblentz: Give her something to chew on.
+
+445
+00:42:44.430 --> 00:42:45.509
+Evan Woollacott: I would do this.
+
+446
+00:42:50.250 --> 00:42:53.559
+Evan Woollacott: You do that across the top, and you can have, like an other over here.
+
+447
+00:42:54.030 --> 00:42:55.120
+Evan Woollacott: Oh, there!
+
+448
+00:42:56.490 --> 00:43:05.760
+Evan Woollacott: Other competitors, and like you could just if you wrote it something in like 50. You just be like put parentheses zoom
+
+449
+00:43:07.850 --> 00:43:13.919
+Evan Woollacott: and then do these fields on the left axis
+
+450
+00:43:14.260 --> 00:43:17.680
+Evan Woollacott: like this. And then it's just an easy, digestible table
+
+451
+00:43:21.000 --> 00:43:30.429
+Evan Woollacott: like known losses, something like that. So you're like very basic. And then, once you've pretty this.
+
+452
+00:43:30.530 --> 00:43:33.710
+Evan Woollacott: you can populate for 5, 9, and then we can just
+
+453
+00:43:34.470 --> 00:43:43.040
+Evan Woollacott: comment, Chin Mai and Jennifer, can you please do this for aws and nice cause
+
+454
+00:43:43.160 --> 00:43:50.679
+Evan Woollacott: rather than me dig through what Jennifer's provided me in comments she could probably do it in 10 seconds. Is that is my where my brain's at.
+
+455
+00:43:51.550 --> 00:43:59.610
+Matt Coblentz: Yeah, particularly. I'll take a stab on the 5 9. 1. Right? Let me just, you know, work on that, and then then we can send it off to them because they'll get a sense of what it is we're trying to do.
+
+456
+00:44:00.270 --> 00:44:03.689
+Evan Woollacott: Yeah, do you? Wanna so you just you wanna build this. Then.
+
+457
+00:44:03.900 --> 00:44:04.470
+Matt Coblentz: Yeah.
+
+458
+00:44:04.710 --> 00:44:08.059
+Evan Woollacott: I would do we were, I was thinking, like licenses.
+
+459
+00:44:09.250 --> 00:44:13.419
+Evan Woollacott: discounts, and then, like Ps. etc, discounts.
+
+460
+00:44:13.800 --> 00:44:17.209
+Evan Woollacott: and then like known displacement campaigns, maybe.
+
+461
+00:44:18.920 --> 00:44:21.860
+Evan Woollacott: and that example and then known losses
+
+462
+00:44:21.990 --> 00:44:31.819
+Evan Woollacott: cause that way. It's like discounts from license discounts for Ps. What we if they have like a targeted campaign like a nice does a 5 9 does. Amazon doesn't. But they have like a broad approach.
+
+463
+00:44:31.970 --> 00:44:34.710
+Evan Woollacott: And then, whatever lost examples we have.
+
+464
+00:44:35.600 --> 00:44:40.829
+Matt Coblentz: We don't. Yeah. Amazon connect does not have a targeted campaign against us. They don't need to.
+
+465
+00:44:40.830 --> 00:44:42.180
+Evan Woollacott: No, they don't need to.
+
+466
+00:44:44.800 --> 00:44:45.730
+Matt Coblentz: Cool.
+
+467
+00:44:45.730 --> 00:44:47.359
+Matt Coblentz: We're not that big a threat.
+
+468
+00:44:47.360 --> 00:44:52.595
+Evan Woollacott: Well, I'm glad I could just push this off from Vanessa on to you.
+
+469
+00:44:52.970 --> 00:44:56.240
+Matt Coblentz: But that's kind of the nature of it. Right.
+
+470
+00:44:57.693 --> 00:44:58.119
+Evan Woollacott: I mean.
+
+471
+00:44:58.120 --> 00:45:04.929
+Matt Coblentz: And we'll give. We'll give her something that you want, and she'll probably re, you know, rearrange it. But at least she has something that she wants. You don't have to think.
+
+472
+00:45:05.510 --> 00:45:10.119
+Evan Woollacott: I just moved it for you. I I don't. These comments are these new comments?
+
+473
+00:45:10.660 --> 00:45:14.389
+Evan Woollacott: 6, 3. What's the dates? The 4? th Right? All right? So they're old.
+
+474
+00:45:16.310 --> 00:45:25.779
+Evan Woollacott: I just put it on slide 5 for you, because the idea would be this slide, this slide, this slide, this slide, and then appendix, probably where he can take whatever he wants.
+
+475
+00:45:26.760 --> 00:45:27.340
+Matt Coblentz: Yeah.
+
+476
+00:45:28.790 --> 00:45:32.300
+Evan Woollacott: She's so funny. She's like, I want to get this to him by end of day. So I'll do this now.
+
+477
+00:45:32.700 --> 00:45:34.916
+Evan Woollacott: It's just something playing.
+
+478
+00:45:36.570 --> 00:45:37.145
+Evan Woollacott: Yeah.
+
+479
+00:45:37.720 --> 00:45:45.619
+Matt Coblentz: Her road to hell is paid with her good intentions that come out of her mouth. That's okay, mine. I've done the exact same thing. So you know I feel for her.
+
+480
+00:45:46.030 --> 00:45:48.830
+Evan Woollacott: Feel for, but I also have some.
+
+481
+00:45:48.830 --> 00:45:55.649
+Matt Coblentz: She's holding this up right. She's gotta learn to let go of some things and delegate others, but she can't. She gotta also learn to slow down enough to explain it.
+
+482
+00:45:57.880 --> 00:46:02.410
+Evan Woollacott: Yeah, we were you one of my accelerate live call yesterday.
+
+483
+00:46:02.820 --> 00:46:15.290
+Matt Coblentz: Yeah, some of it. Oh, Casey's call. I was on the Casey call. Yeah. I didn't go into the next follow on commercial call, because after Amy, I stayed on because she's got a shit ton of rules that are coming down the pike for us. So
+
+484
+00:46:17.960 --> 00:46:25.690
+Matt Coblentz: watch out. It's actually it's actually to our benefit. So we know where the danger zones are. But it took her a while to go through it all.
+
+485
+00:46:26.680 --> 00:46:30.510
+Matt Coblentz: Yeah, we we talked about our one on one. She was apologizing again.
+
+486
+00:46:30.780 --> 00:46:44.709
+Evan Woollacott: She's like. I'm not trying to take you off it like I'm sorry if there are your feelings, or whatever I'm like. I don't. I don't care at all like I had no idea what was going on in that call.
+
+487
+00:46:44.710 --> 00:46:47.109
+Matt Coblentz: I just don't know what you need. I can't help.
+
+488
+00:46:47.110 --> 00:47:03.739
+Evan Woollacott: Oh, you're right like you had a meeting with Jennifer and told Jennifer to lead it, and I've been on it from the gecko, and then I'm on this call, and Jennifer's like, I can't do the Pm. And I'm like, Wait, you're doing the Am. And then on the call somebody was like, so who's doing this? And I didn't say anything because I had no fucking idea. I was like.
+
+489
+00:47:05.490 --> 00:47:06.330
+Matt Coblentz: Me to do it.
+
+490
+00:47:06.793 --> 00:47:13.896
+Evan Woollacott: Like I I didn't know what was going on, and then also I got signed up for a Cs. Then I didn't realize they're back to back.
+
+491
+00:47:14.160 --> 00:47:15.760
+Matt Coblentz: Oh, nice, I mean
+
+492
+00:47:16.290 --> 00:47:21.149
+Matt Coblentz: I'm on the West Coast, but she isn't asking me for anything. I will help Patrick, because he'll be on.
+
+493
+00:47:21.150 --> 00:47:25.420
+Evan Woollacott: Yeah, I would if you should just take over for Patrick, because you're east West Coast.
+
+494
+00:47:26.210 --> 00:47:29.000
+Matt Coblentz: No? Well, I know why Patrick wants to do it, and
+
+495
+00:47:29.340 --> 00:47:33.799
+Matt Coblentz: right he wants to get into it. He needs a reason to actually be competent at it. Okay, fine.
+
+496
+00:47:33.990 --> 00:47:35.579
+Evan Woollacott: Which yeah, I mean, he'll do.
+
+497
+00:47:35.580 --> 00:47:36.440
+Matt Coblentz: All good.
+
+498
+00:47:36.440 --> 00:47:43.310
+Evan Woollacott: It is an easy presentation. It's not like it's an accelerate live where it's like. This is how you beat. But it's like this is the new tool.
+
+499
+00:47:44.060 --> 00:47:46.969
+Matt Coblentz: Yeah, right? And we'll be good at it. So
+
+500
+00:47:48.160 --> 00:47:52.460
+Matt Coblentz: it'd be great. I can always backstop him or answer questions. Live while he's talking.
+
+501
+00:47:53.300 --> 00:48:01.760
+Evan Woollacott: And then she need imperative because we have that leadership call with Larry's team next week.
+
+502
+00:48:02.513 --> 00:48:06.840
+Evan Woollacott: if you remember, on the team call, I was just like.
+
+503
+00:48:07.160 --> 00:48:15.989
+Evan Woollacott: what are we presenting? Because, like I what we but and she's just like we're gonna do this that the other thing blah blah it was, and then she's
+
+504
+00:48:15.990 --> 00:48:16.889
+Evan Woollacott: I certainly hope not.
+
+505
+00:48:17.780 --> 00:48:21.630
+Evan Woollacott: But then we're presenting, I think, to Tony's team after that at the end of the month.
+
+506
+00:48:22.780 --> 00:48:27.104
+Evan Woollacott: and so I was just like like, what are we presenting?
+
+507
+00:48:29.000 --> 00:48:30.599
+Evan Woollacott: I don't know. We'll figure it out.
+
+508
+00:48:33.875 --> 00:48:34.640
+Evan Woollacott: I don't know.
+
+509
+00:48:37.410 --> 00:48:41.059
+Matt Coblentz: Why, I mean in my mind it should just be
+
+510
+00:48:43.680 --> 00:48:53.479
+Matt Coblentz: a bunch of shit that we're it should be, you know, we're presenting to Tony's team on what we see. But how do we? I mean, we should be practicing that shit like we practice, inspire right.
+
+511
+00:48:53.480 --> 00:48:55.699
+Evan Woollacott: Oh, I know it was even Larry
+
+512
+00:48:56.678 --> 00:49:00.241
+Evan Woollacott: meeting with Larry Dog, the L dog.
+
+513
+00:49:01.470 --> 00:49:06.660
+Matt Coblentz: Yeah, exactly.
+
+514
+00:49:06.660 --> 00:49:16.100
+Evan Woollacott: And I think part of like the calls to share, like the methodology and stuff, and that is not as boring conversation as I was like, how do I tell Larry
+
+515
+00:49:17.240 --> 00:49:29.343
+Evan Woollacott: how our win rates calculated, and how the plan on the page initiative was target was set using all the other like how that is a boring discussion that they're gonna be like eyes glazed immediately.
+
+516
+00:49:30.160 --> 00:49:32.551
+Evan Woollacott: What's the number? Y.
+
+517
+00:49:33.340 --> 00:49:42.620
+Matt Coblentz: Right. I mean, they want. They want a general description of the problem and your recommendation on it, you know, and be prepared to back up all of your shit with data and stuff like that.
+
+518
+00:49:43.240 --> 00:49:51.490
+Matt Coblentz: But sometimes they don't want it. I mean, they're if they feel the problem and they know it. They don't. You just validated their feelings. You're done.
+
+519
+00:49:52.730 --> 00:49:53.480
+Evan Woollacott: Right.
+
+520
+00:49:55.760 --> 00:49:58.219
+Matt Coblentz: If he already agrees with you, he won't ask for data.
+
+521
+00:49:58.890 --> 00:49:59.590
+Evan Woollacott: Yeah.
+
+522
+00:50:00.420 --> 00:50:06.609
+Matt Coblentz: Now, if you're saying something completely new, you better have your ducks, you know you better have your data lined up. But.
+
+523
+00:50:06.610 --> 00:50:14.747
+Evan Woollacott: Larry, you need to launch Genesis essentials for the the Smb. Market tomorrow. Who is this asshole?
+
+524
+00:50:15.451 --> 00:50:18.219
+Matt Coblentz: Great idea what the fuck is an essential right? You didn't.
+
+525
+00:50:18.220 --> 00:50:23.509
+Evan Woollacott: Alright! Your bonus will cover the lost revenue. Thank you, Evan Willicott.
+
+526
+00:50:24.340 --> 00:50:26.730
+Matt Coblentz: Yeah, that could be entertaining.
+
+527
+00:50:26.730 --> 00:50:27.470
+Evan Woollacott: Yeah.
+
+528
+00:50:29.550 --> 00:50:30.750
+Matt Coblentz: Alright, I'm.
+
+529
+00:50:30.750 --> 00:50:34.809
+Evan Woollacott: Alpesh dude. Another Alpesh request. I love you, Alpesh, but you're starting to ask a lot.
+
+530
+00:50:35.600 --> 00:50:45.300
+Evan Woollacott: What's industry? Verticals? We don't have the verticals in our tableau data set. And he's like, Okay, well, any help you could provide would be great. I was like, I can't. There's nothing I could do.
+
+531
+00:50:45.570 --> 00:50:48.590
+Matt Coblentz: Right. Well, that's why I asked for that shit from Evan.
+
+532
+00:50:48.590 --> 00:50:50.010
+Evan Woollacott: Yeah, I know.
+
+533
+00:50:50.010 --> 00:50:52.979
+Matt Coblentz: But you know not not quickly.
+
+534
+00:50:53.430 --> 00:50:58.499
+Matt Coblentz: you know I gotta build this other fucking slide for you. I'll take care of that, and then maybe.
+
+535
+00:50:58.500 --> 00:51:04.790
+Evan Woollacott: Yeah, I'm prioritizing stuff for easy over Alpesh in the second time. I've done it like I need to get stuff to easy. But.
+
+536
+00:51:05.440 --> 00:51:11.799
+Matt Coblentz: Yeah, and just tell alpash look, I don't think I can get to this for like another day and a half before I can start on it.
+
+537
+00:51:14.630 --> 00:51:16.740
+Matt Coblentz: and you know Matt will help me. But
+
+538
+00:51:17.130 --> 00:51:18.700
+Matt Coblentz: we got shit. We gotta do
+
+539
+00:51:19.241 --> 00:51:27.110
+Matt Coblentz: alright. I'm gonna go build this data, qual themes, slide 5 shit, and then I'm gonna go ask Chin Mai and Jennifer if I've done it. Well.
+
+540
+00:51:27.450 --> 00:51:28.310
+Evan Woollacott: Me!
+
+541
+00:51:28.720 --> 00:51:29.859
+Matt Coblentz: And we'll move along.
+
+542
+00:51:32.740 --> 00:51:36.009
+Evan Woollacott: Okay. So I'm just flying to Alpash. I'm not ignoring you, but thank you.
+
+543
+00:51:37.524 --> 00:51:39.170
+Evan Woollacott: Let me know if you have.
+
+544
+00:51:39.170 --> 00:51:39.639
+Matt Coblentz: Help us!
+
+545
+00:51:39.640 --> 00:51:41.035
+Evan Woollacott: It's like, what.
+
+546
+00:51:41.510 --> 00:51:43.350
+Matt Coblentz: I said, we'll see how this goes.
+
+547
+00:51:43.560 --> 00:51:47.051
+Evan Woollacott: Yeah, no, I was saying, let me know if you have questions, but it's pretty straightforward.
+
+548
+00:51:47.270 --> 00:51:50.490
+Matt Coblentz: Questions every freaking day but this one I think I understand.
+
+549
+00:51:51.800 --> 00:51:54.559
+Matt Coblentz: Alright! I will talk with you soon.
+
+550
+00:51:56.110 --> 00:51:57.350
+Evan Woollacott: Alright. Thank you.
+
+551
+00:51:57.350 --> 00:51:58.080
+Matt Coblentz: Later.
+

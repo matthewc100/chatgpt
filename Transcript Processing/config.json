@@ -1,0 +1,6 @@
+{
+  "name": "TranscriptFormatter",
+  "description": "Formats uploaded transcripts, cleans structure, aggregates speaker text, and optionally adds summaries and action items.",
+  "output_formats": ["md", "docx", "txt"],
+  "requires_summary_prompt": true
+}
